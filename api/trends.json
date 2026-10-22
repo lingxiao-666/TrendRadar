@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-22T13:48:23.451123+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-10-22T14:03:36.692370+08:00",
+  "total_titles_processed": 324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "以防长说伊朗若袭击以色列将灭了伊朗",
+          "url": "https://wallstreetcn.com/livenews/3183206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
         {
           "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
           "url": "https://wallstreetcn.com/articles/3784121",
@@ -15,19 +26,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称打击了4艘“违规”油轮。",
           "url": "https://wallstreetcn.com/livenews/3183168",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         },
         {
           "title": "伊朗媒体Fars News：伊朗革命卫队在波斯湾北部针对的四艘船只，要么属于美国，要么当时正在为一家美国公司运输货物。",
@@ -37,8 +49,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：准备推出“炸弹之父”",
@@ -65,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         },
         {
           "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
@@ -76,19 +88,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         },
         {
           "title": "美股股指期货持续走低，纳指期货跌1.5%，标普500指数期货跌0.80%，道指期货跌0.40%。",
           "url": "https://wallstreetcn.com/livenews/3183197",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         }
       ]
     },
@@ -104,8 +117,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         },
         {
           "title": "默茨：对华政策，我们跟特朗普不一样",
@@ -115,8 +128,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         },
         {
           "title": "克林顿嘲讽特朗普诺贝尔奖言论",
@@ -126,8 +139,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时03分]"
         }
       ]
     }
