@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T14:10:19.452680+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2026-10-22T14:27:46.608226+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 14时10分]"
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 14时27分]"
         },
         {
           "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 14时27分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称打击了4艘“违规”油轮。",
@@ -78,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 14时27分]"
         },
         {
           "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
@@ -89,8 +90,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 14时27分]"
         },
         {
           "title": "美股股指期货持续走低，纳指期货跌1.5%，标普500指数期货跌0.80%，道指期货跌0.40%。",
@@ -99,11 +100,12 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 14时27分]"
         }
       ]
     },
@@ -120,8 +122,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 14时27分]"
         },
         {
           "title": "默茨：对华政策，我们跟特朗普不一样",
@@ -131,8 +133,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 14时27分]"
         },
         {
           "title": "克林顿嘲讽特朗普诺贝尔奖言论",
@@ -143,8 +145,25 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时48分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时48分 ~ 14时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价反弹无力再遭压制，多空拉锯战再次展开！",
+          "url": "https://flash.jin10.com/detail/20261022140755728800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     }
